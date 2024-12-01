@@ -1,1 +1,1 @@
-# seminarforgit
+Hello, Git
